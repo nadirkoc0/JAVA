@@ -2,10 +2,10 @@
 
 Bu kodluyoruz java101 eğitimi ile yaptığım ilk proje
 
-##Pogramın Kodunun Fotoğrafı
+## Pogramın Kodunun Fotoğrafı
 
 ![kod fotografi](images/kodlar.png)
 
-##Programın Fotoğrafı
+## Programın Fotoğrafı
 
 ![program fotograf](images/program.png)
